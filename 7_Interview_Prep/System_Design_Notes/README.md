@@ -4,7 +4,7 @@
 
 Good system design notes include clear diagrams, documented assumptions, and explained trade-offs.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

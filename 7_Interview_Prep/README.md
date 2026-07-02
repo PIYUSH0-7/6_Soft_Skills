@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Practice active listening during interviews, answering the specific question asked while keeping responses concise.
+Prepare behavioral interview answers using the STAR format, focusing on collaboration and adaptability.
 
 *Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 

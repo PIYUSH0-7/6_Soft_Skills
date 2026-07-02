@@ -4,7 +4,7 @@
 
 Daily reading of code written by others is a form of empathy, improving your own coding style.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Describe the collaborative aspects of your projects: how you worked in a team or gathered user feedback.
+Use clear, jargon-free explanations to show that you can communicate technical topics to non-technical stakeholders.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 

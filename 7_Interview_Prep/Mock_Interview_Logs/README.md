@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Track feedback on your storytelling clarity and how well you structure your thoughts under pressure.
+Analyze mock feedback on eye contact, body language, tone, and empathy during discussions.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
