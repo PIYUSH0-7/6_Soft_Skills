@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Use clear, jargon-free explanations to show that you can communicate technical topics to non-technical stakeholders.
+A portfolio, when designed with strong soft skills in mind, transforms a collection of projects into a compelling narrative, demonstrating your ability to articulate technical value and collaborate effectively.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* For each project in your portfolio, write a clear, concise paragraph explaining the problem you solved for users or the business, avoiding technical jargon.
 
 <!-- THOUGHT_END -->
 

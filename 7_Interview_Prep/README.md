@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Prepare behavioral interview answers using the STAR format, focusing on collaboration and adaptability.
+Interview preparation for soft skills is about authentically showcasing your interpersonal strengths, adaptability, and growth mindset through structured, impactful stories that resonate beyond technical ability.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Practice answering common behavioral questions with the STAR method, focusing on a clear articulation of the Situation, Task, Action, and Result.
 
 <!-- THOUGHT_END -->
 

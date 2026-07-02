@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Good system design notes include clear diagrams, documented assumptions, and explained trade-offs.
+In system design, soft skills manifest in your ability to translate complex technical architectures into clear, concise documentation, justifying design decisions with strong reasoning and effectively collaborating with stakeholders.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* When documenting system designs, explicitly state the trade-offs considered for each major decision and how those choices align with business objectives.
 
 <!-- THOUGHT_END -->
 

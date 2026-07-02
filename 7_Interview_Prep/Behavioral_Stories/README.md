@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Prepare stories that highlight your empathy, growth mindset, and customer-first approach.
+Your behavioral stories are powerful narratives that demonstrate your emotional intelligence, problem-solving in challenging interpersonal scenarios, and your capacity for continuous personal and professional growth.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Identify three core soft skills you want to highlight and prepare a compelling STAR story for each, focusing on quantifiable impact or significant learning.
 
 <!-- THOUGHT_END -->
 

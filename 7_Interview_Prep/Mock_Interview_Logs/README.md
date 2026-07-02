@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Analyze mock feedback on eye contact, body language, tone, and empathy during discussions.
+Mock interview logs for soft skills offer objective insights into your communication style, non-verbal cues, and the clarity of your behavioral narratives, enabling precise refinement for impactful interactions.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* During mock interviews, ask for specific feedback on your storytelling ability—whether your answers are concise, engaging, and directly address the question.
 
 <!-- THOUGHT_END -->
 
