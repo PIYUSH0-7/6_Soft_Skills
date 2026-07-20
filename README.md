@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Software engineering is a team sport; your technical capability is amplified by your ability to communicate and collaborate.
+Always seek to understand before being understood; listen actively to users, managers, and teammates.
 
 *Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
