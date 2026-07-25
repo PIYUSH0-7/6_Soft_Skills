@@ -4,7 +4,7 @@
 
 Always seek to understand before being understood; listen actively to users, managers, and teammates.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
