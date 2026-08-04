@@ -4,7 +4,7 @@
 
 Software engineering is a team sport; your technical capability is amplified by your ability to communicate and collaborate.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
